@@ -4,7 +4,10 @@ Multiple object detection using COCO-SSD a pre trained model in TensorFlow.js
 
 Feel free to fork this and use it as a quick way to start coding with TensorFlow.js directly or following some other tutorial that needs TensorFlow.js to run.
 
-## Your Project
+##  Project
+
+https://iamvazu.glitch.me/
+
 
 ### ← index.html
 
